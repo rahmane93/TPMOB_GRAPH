@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Graph BK 1.0</string>
+    <string name="reset">Reset the graph</string>
+    <string name="mode">Select the mode</string>
+        <string name="addingNode">Add Node Mode</string>
+        <string name="addingArc">Add arc Mode</string>
+        <string name="updateArcNode">Update arc/node mode</string>
+    <string name="others">Others for 2.0 version</string>
+</resources>
